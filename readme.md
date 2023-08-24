@@ -57,7 +57,7 @@ Using Google Optimize, I changed the copy to make it less formal and potentially
 
 $~~~~~~~~~~~$
 
-<img width="800" alt="Screen Shot 2023-08-24 at 17 21 29" src="https://github.com/AprilMelnick/A-B-Testing/assets/132557396/0ed377a3-900b-4a72-bc0c-bbd01419a3f0">
+<img width="800" alt="Screen Shot 2023-08-24 at 17 20 54" src="https://github.com/AprilMelnick/A-B-Testing/assets/132557396/75912948-fc01-4b63-b960-2367e61419a9">
 
 *changed newsletter copy*
 
