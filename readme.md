@@ -11,7 +11,7 @@ For this task I:
 
 $~~~~~~~~~~~$
 
-Assessing the site, I determined two areas I wanted to focus on to and try to increase performance: the image and the call-to-action.
+Assessing the site, I determined two areas I wanted to focus on to and try to increase performance: the image and the call-to-action. 
 
 $~~~~~~~~~~~$
 
@@ -33,7 +33,7 @@ $~~~~~~~~~~~$
 
 ## 💻 Test 2
 
-Following the directional cue principle of Conversion Centered Design, I flipped the image so that the man's eyes are focused on the area we want you to read: the paragraph above the call to action.
+Following the directional cue principle of Conversion Centered Design, I flipped the image so that the man's eyes are focused on the area we want you to read: the paragraph above the call to action. This sort of subtle change has been shown to draw the user's attention to the desired action, a click on the download button.
 
 $~~~~~~~~~~~$
 
